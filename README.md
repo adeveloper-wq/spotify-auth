@@ -2,4 +2,6 @@
 From: https://github.com/spotify/web-api-auth-examples/tree/master/authorization_code
 
 # How to use?
-- set environment variables ``, `` and ``
+- set environment variables `CLIENT_ID`, `CLIENT_SECRET`, `REDIRECT_URI`, `SCOPE` and `APP_URL`
+- run `npm install`
+- run `npm start`
